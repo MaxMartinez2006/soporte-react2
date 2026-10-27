@@ -1,0 +1,23 @@
+
+{
+  "solicitudes": [
+    {
+      "id": "1",
+      "titulo": "Equipo no enciende",
+      "prioridad": "Alta",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "2",
+      "titulo": "Instalar software",
+      "prioridad": "Media",
+      "estado": "En proceso"
+    },
+    {
+      "id": "3",
+      "titulo": "Problema de conexión a internet",
+      "prioridad": "Alta",
+      "estado": "Resuelta"
+    }
+  ]
+}
